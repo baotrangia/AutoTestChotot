@@ -1,0 +1,11 @@
+{
+  "browserName": "firefox",
+  "capabilities": {
+    "bstack:options": {
+      "buildName": "e2e",
+      "sessionName": "Local Single",
+      "browserVersion": "latest",
+      "debug": true
+    }
+  }
+}
